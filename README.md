@@ -33,14 +33,6 @@ This project demonstrates how to build a Neural Style Transfer pipeline for imag
 
 ---
 
-## 🖼️ Demo
-
-| Content Image | Style Image | Output |
-|---------------|-------------|--------|
-| ![content](assets/content.jpg) | ![style](assets/style.jpg) | ![output](assets/output.jpg) |
-
----
-
 ## 🛠️ Tech Stack
 
 - Python
